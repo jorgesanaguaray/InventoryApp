@@ -1,0 +1,30 @@
+# Android Studio
+*.iml
+.gradle/
+**/.gradle/
+
+.idea/
+**/.idea/
+
+build/
+**/build/
+
+local.properties
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Review files
+*-review.txt
